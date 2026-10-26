@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "A professional-grade offline To-Do list app with Room database, priorities, categories, due date reminders, and modern Material 3 design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
